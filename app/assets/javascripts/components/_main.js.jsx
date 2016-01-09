@@ -5,9 +5,7 @@ var Main = React.createClass({
         <header>
           <Header />
         </header>
-        <main>
-          <Body />
-        </main>
+        <Body />
       </div>
     )
   }
