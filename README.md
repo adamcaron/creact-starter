@@ -1,4 +1,6 @@
 # Creact
-## Starter repo for the [creact tutorial](http://github.com/applegrain/creact)
 
-PR's accepted (ツ)
+Tutorial for the [creact tutorial](http://github.com/applegrain/creact)
+
+Rails API and with a React front end using the react-rails gem.
+
